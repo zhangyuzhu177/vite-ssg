@@ -1,1 +1,1 @@
-# ViteSSE 开发模板
+# ViteSSG 开发模板
