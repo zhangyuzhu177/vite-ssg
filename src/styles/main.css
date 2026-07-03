@@ -6,6 +6,21 @@ body,
   padding: 0;
 }
 
+html,
+body {
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  overscroll-behavior: none;
+  touch-action: pan-x pan-y;
+  -webkit-text-size-adjust: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 html.dark {
   background: #121212;
   color-scheme: dark;
